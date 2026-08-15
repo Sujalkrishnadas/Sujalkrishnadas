@@ -5,22 +5,27 @@
 <img src="./assets/rotating-avatar.gif" width="200" alt="Rotating 3D network sphere" />
 
 <a href="https://github.com/Sujalkrishnadas">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+machines+that+see+%26+decide;DRDO+Research+Intern+%7C+AI%2FML+%7C+Robotics;Turning+research+into+working+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00E5D0&center=true&vCenter=true&width=650&lines=%3E+BUILDING+INTELLIGENT+MACHINES...;%3E+DRDO+RESEARCH+INTERN+%7C+AI%2FML+%7C+ROBOTICS;%3E+TURNING+RESEARCH+INTO+WORKING+SYSTEMS" alt="Typing SVG" />
 </a>
 
-📍 Bengaluru, Karnataka, India
+```
+$ whoami
+> AI & Robotics Engineer | Dayananda Sagar University | Bengaluru, IN
+$ status
+> ONLINE — open to collaboration
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalkrishnadas@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Sujalkrishnadas?label=Follow&style=for-the-badge&color=58A6FF)](https://github.com/Sujalkrishnadas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5D0)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5D0)](mailto:sujalkrishnadas@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Sujalkrishnadas?label=Follow&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Sujalkrishnadas)
 
-<img src="https://komarev.com/ghpvc/?username=Sujalkrishnadas&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sujalkrishnadas&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧭 About Me
+## ⚙️ `SYSTEM.ABOUT_ME`
 
 AI & Robotics engineering student (CGPA 9.2) focused on designing intelligent automation solutions for real-world industrial challenges. My work spans **machine learning model development, robotics systems, and applied research**, with an emphasis on efficiency, reliability, and system integration.
 
@@ -34,7 +39,7 @@ AI & Robotics engineering student (CGPA 9.2) focused on designing intelligent au
 
 ---
 
-## 🎓 Education
+## 🎓 `SYSTEM.EDUCATION_LOG`
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
@@ -46,7 +51,7 @@ AI & Robotics engineering student (CGPA 9.2) focused on designing intelligent au
 
 ---
 
-## 💼 Experience
+## 💼 `SYSTEM.EXPERIENCE_LOG`
 
 **Research Intern — DRDO, Centre for Airborne Systems** · Jun 2026 – Jul 2026 · Bengaluru (On-site)
 Contributed to applied research leveraging Python and machine learning within a defence R&D environment.
@@ -62,7 +67,7 @@ Completed five industrial automation projects (embossing machine, bending tool, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ `SYSTEM.TECH_STACK`
 
 <div align="center">
 
@@ -86,7 +91,7 @@ Completed five industrial automation projects (embossing machine, bending tool, 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 `SYSTEM.PROJECTS`
 
 | Project | Description |
 |---|---|
@@ -101,14 +106,14 @@ Completed five industrial automation projects (embossing machine, bending tool, 
 
 ---
 
-## 📄 Publications
+## 📄 `SYSTEM.PUBLICATIONS`
 
 - **Three Phase Traffic Negotiation Framework for Autonomous and Human-Driven Environments in Heterogeneous Smart Cities** — *International Journal of Intelligent Transportation Systems Research*, June 2026
 - **Comparative Analysis of Multiple Machine Learning Models for AIDS Clinical Trial Outcome Prediction** — *ResearchGate*, December 2025
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 `SYSTEM.ACHIEVEMENTS`
 
 - 🥇 **AWS AI for Bharat Hackathon** — selected participant; recognised for product thinking and end-to-end architecture. Published on GeeksforGeeks (2026)
 
@@ -121,30 +126,30 @@ Completed five industrial automation projects (embossing machine, bending tool, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 `SYSTEM.STATS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujalkrishnadas&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkrishnadas&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujalkrishnadas&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00E5D0&icon_color=00E5D0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalkrishnadas&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00E5D0" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujalkrishnadas&hide_border=true&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujalkrishnadas&hide_border=true&theme=dark&background=0D1117&ring=00E5D0&fire=00E5D0&currStreakLabel=00E5D0" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkrishnadas&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujalkrishnadas&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5D0&line=00E5D0&point=FFFFFF" width="100%" />
 
 </div>
 
 ---
 
-## 🏅 Trophies
+## 🏅 `SYSTEM.TROPHIES`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sujalkrishnadas&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sujalkrishnadas&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 `SYSTEM.ACTIVITY_SNAKE`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sujalkrishnadas/Sujalkrishnadas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
@@ -154,14 +159,14 @@ Completed five industrial automation projects (embossing machine, bending tool, 
 
 ---
 
-## 🎯 Beyond Code
+## 🎯 `SYSTEM.BEYOND_CODE`
 
 Coordinator, IET Student Chapter · Enthusiastic traveller · Self-learning quantum computing · Enjoys cooking as a creative outlet
 
 ---
 
 <div align="center">
-<sub>📫 Reach me at sujalkrishnadas@gmail.com — always open to collaborating on AI, robotics, and automation projects.</sub>
+<sub><code>&gt; connection stable — reach me at sujalkrishnadas@gmail.com — always open to collaborating on AI, robotics, and automation projects.</code></sub>
 </div>
 
 <img src="./assets/banner-footer.png" width="100%" alt="footer banner" />
