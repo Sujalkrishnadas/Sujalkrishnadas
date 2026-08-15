@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner-header.png" width="100%" alt="header banner" />
+<img src="./banner-header.png" width="100%" alt="header banner" />
 
-<img src="./assets/rotating-avatar.gif" width="200" alt="Rotating 3D network sphere" />
+<img src="./rotating-avatar.gif" width="200" alt="Rotating 3D network sphere" />
 
 <a href="https://github.com/Sujalkrishnadas">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00E5D0&center=true&vCenter=true&width=650&lines=%3E+BUILDING+INTELLIGENT+MACHINES...;%3E+DRDO+RESEARCH+INTERN+%7C+AI%2FML+%7C+ROBOTICS;%3E+TURNING+RESEARCH+INTO+WORKING+SYSTEMS" alt="Typing SVG" />
@@ -15,7 +15,7 @@ $ status
 > ONLINE — open to collaboration
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5D0)]((https://www.linkedin.com/in/sujal-krishna-das-12b240314?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5D0)](https://www.linkedin.com/in/sujal-krishna-das-12b240314?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5D0)](mailto:sujalkrishnadas@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Sujalkrishnadas?label=Follow&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Sujalkrishnadas)
 
@@ -169,4 +169,4 @@ Coordinator, IET Student Chapter · Enthusiastic traveller · Self-learning quan
 <sub><code>&gt; connection stable — reach me at sujalkrishnadas@gmail.com — always open to collaborating on AI, robotics, and automation projects.</code></sub>
 </div>
 
-<img src="./assets/banner-footer.png" width="100%" alt="footer banner" />
+<img src="./banner-footer.png" width="100%" alt="footer banner" />
