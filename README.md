@@ -15,7 +15,7 @@ $ status
 > ONLINE — open to collaboration
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5D0)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5D0)]((https://www.linkedin.com/in/sujal-krishna-das-12b240314?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5D0)](mailto:sujalkrishnadas@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Sujalkrishnadas?label=Follow&style=for-the-badge&color=000000&labelColor=000000)](https://github.com/Sujalkrishnadas)
 
