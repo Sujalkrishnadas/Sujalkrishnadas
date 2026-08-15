@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=200&section=header&text=Sujal%20Krishna%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Robotics%20Engineer&descAlignY=55&descSize=20" width="100%" alt="header banner" />
+<img src="./assets/banner-header.png" width="100%" alt="header banner" />
 
 <img src="./assets/rotating-avatar.gif" width="200" alt="Rotating 3D network sphere" />
 
@@ -164,4 +164,4 @@ Coordinator, IET Student Chapter · Enthusiastic traveller · Self-learning quan
 <sub>📫 Reach me at sujalkrishnadas@gmail.com — always open to collaborating on AI, robotics, and automation projects.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0A66C2&height=100&section=footer" width="100%" />
+<img src="./assets/banner-footer.png" width="100%" alt="footer banner" />
